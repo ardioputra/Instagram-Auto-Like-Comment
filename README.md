@@ -3,10 +3,13 @@ Automation on Instagram does Like, Comment, and Follow, using Selenium Module on
 
 ## How to use it?
 
-### 1. Clone this git
+### 1. Clone this git, install selenium module and pandas 
 
 ```
 git clone [url]
+pip install selenium
+pip install pandas
+
 ```
 
 ### 2. Open the folder using any of code editor
