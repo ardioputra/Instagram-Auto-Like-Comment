@@ -4,5 +4,5 @@
 
 #Must be filled!
 
-id = 'robertesting' #For Instagram ID
-psw = 'harimaumalam11' #For Instagram Password
+id = '' #For Instagram ID
+psw = '' #For Instagram Password
